@@ -6,7 +6,7 @@ RailBhoomi is a smart and user-friendly complaint management platform designed f
 
 ##  Features
 
-### 🗣 Speech-to-Text Functionality
+###  Speech-to-Text Functionality
 - Users who are unable to type can simply **speak their complaint**, which is automatically transcribed using the **Web Speech API** and submitted.
 
 ###  Multi-language Support
